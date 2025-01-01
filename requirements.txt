@@ -1,0 +1,5 @@
+flask
+openai
+black
+flake8
+python-dotenv
